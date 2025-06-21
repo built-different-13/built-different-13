@@ -3,7 +3,7 @@
 <h1 id="top" align="center">Hi, I'm Shriram Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Develper;Problem+Solver;Saas+Builder;Avid+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Saas+Builder;Avid+Learner" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,27 +14,6 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="ahmednassar7" /></a> </p>
-
-<div align="center">
-
-<span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Internships <br> </kbd>](#internship-experience)</span>
-<span>[<kbd> <br> Open Source <br> </kbd>](#open-source)</span>
-<span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
-<span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
-<span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Skills <br> </kbd>](#technical-skills)</span>
-<span>[<kbd> <br> Stats <br> </kbd>](#github-stats)</span>
-<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
-<span>[<kbd> <br> Graph <br> </kbd>](#graph)</span>
-
-<a href="https://www.linkedin.com/in/nasssar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ahmednassar7.github.io/" target="_blank" >
-  <img align="center" src="logo.png" alt="Portfolio" height="40" width="40" />
-</a>
-
-</div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
