@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/https://github.com/built-different-13?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  <img src="https://img.shields.io/github/followers/built-different-13?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
   <img src="https://img.shields.io/github/stars/built-different-13?color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/built-different-13/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
