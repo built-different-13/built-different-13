@@ -56,8 +56,6 @@
 
 - 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
 
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
-
 - ✨ Enjoy my GitHub profile.
 
 &nbsp;
