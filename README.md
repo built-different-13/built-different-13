@@ -26,28 +26,9 @@
 
 ## Technical Skills
 
-### Programming Languages  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![Python](https://skillicons.dev/icons?i=py)
-
-### Web Development  
-![React](https://skillicons.dev/icons?i=react)  
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-### Databases  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
-![MongoDB](https://skillicons.dev/icons?i=mongo)
-
-### Cloud & DevOps  
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Kubernetes](https://skillicons.dev/icons?i=k8s)
-
-### Tools & Platforms  
-![Git](https://skillicons.dev/icons?i=git)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![C++](https://skillicons.dev/icons?i=cpp)  
 
 ---
 
