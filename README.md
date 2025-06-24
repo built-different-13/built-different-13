@@ -6,6 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;An+Avid+Learner" alt="Typing SVG" /></a>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=built-different-13&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="Shriram" /></a> </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/built-different-13?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
