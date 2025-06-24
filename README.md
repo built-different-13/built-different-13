@@ -77,27 +77,12 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
 ### 🌐 Web Development  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,django,dotnet,bootstrap,redux,jquery,vite" />
-</a>
-
-### 🗄️ Databases  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,dynamodb,firebase" />
-</a>
-
-### ☁️ Cloud & DevOps  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,jenkins" />
-</a>
-
-### ⚙️ Tools & Platforms  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,clion,cmake,anaconda,notion,latex,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </a>
 
 
